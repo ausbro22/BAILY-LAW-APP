@@ -1,0 +1,59 @@
+<div class="row">
+<div class= "col-xs-8">  
+<h1 class="black-text">
+  BAILY LAW
+</h1>
+</div>
+<a href="#">
+<img class="larger-image img-thumbnail" alt="AARON BAILY. " src="https://static.wixstatic.com/media/3a0eb4_06ffd0293f984b7f95e176f93dec02f8.jpg/v1/fill/w_61,h_50,al_c,q_80,usm_0.66_1.00_0.01/3a0eb4_06ffd0293f984b7f95e176f93dec02f8.webp">
+</a>                            
+</div>
+<div class = “box”>
+<div class="row">
+<div class= "col-xs-6">
+<div class="well" id="left-well">
+   
+<button class="btn-group-vertical btn btn-default btn-block btn-primary" id="Contact">
+Contact
+</button>
+
+  
+<button class="btn-group-vertical btn btn-default btn-block btn-primary" id=“Law">
+Law 
+<i class="fa fa-gavel" aria-hidden="true">
+</i>
+</button>
+                                         
+<button class="btn-group-vertical btn btn-default btn-block btn-primary" id="About">
+About 
+<i class="fa fa-info-circle">
+</i>
+</button>
+</div>
+</div>                                                                               
+
+<img class="larger-image thick-black-border" alt="AARON BAILY. " src="https://static.wixstatic.com/media/3a0eb4_38b2a4a598834101868d3c750619abc4.jpg/v1/fill/w_120,h_140,al_c,q_80,usm_0.66_1.00_0.01/3a0eb4_38b2a4a598834101868d3c750619abc4.webp"</img>
+                          
+</div>
+</div>
+</div>                         
+<img class="larger-image" alt="AARON BAILY. " src="https://static.wixstatic.com/media/3a0eb4_e952eebfa90f45888fad23c071807c73~mv2_d_6000_2450_s_4_2.jpeg/v1/fill/w_260,h_120,al_c,q_80,usm_0.66_1.00_0.01/3a0eb4_e952eebfa90f45888fad23c071807c73~mv2_d_6000_2450_s_4_2.webp"</img>                          
+<div class= "row">
+<div class= "btn-group-justified">
+  <div class= "col-xs-4"><button class="btn btn-default btn-block btn-danger" id="Camera">
+<i class="fa fa-camera" aria-hidden="true"></i>
+                                          </button></div>
+ <div class= "col-xs-4"><button class="btn btn-default btn-block btn-info" id="Indox">
+<i class="fa fa-envelope-o" aria-hidden="true"></i>
+                                              </button></div>
+ <div class= "col-xs-4"><button class="btn btn-default btn-block btn-success" id=“Pay Invoice">
+<i class="fa fa-money" aria-hidden="true"></i>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="text-center"> © 2017 Aaron G. Baily, Esq. </p>
+<p class="text-center">22 Saw Mill River Road, 3rd Fl.,</p>
+  <p class= "text-center">Hawthorne, New York 10532</p>
