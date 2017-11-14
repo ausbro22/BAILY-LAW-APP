@@ -1,0 +1,40 @@
+<link href="https://fonts.googleapis.com/css?family=Spectral SC" rel="stylesheet" type="text/css">
+<style>
+   body{
+  background-color: ffff;   
+}
+  .black-text {
+    color: black;
+  }
+
+  h1 {
+    font-family: Spectral SC, Monospace;
+    font-size: 30px;
+  
+  }
+  p {
+    font-family: Monospace;
+    font-size: 12px; 
+  }
+
+  .thick-black-border {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+  }
+  .largerer-image {
+    height: 500px;
+    width: 200px;
+  }
+
+.box {
+ padding: 1rem 10;
+  }
+.popover {
+    border: 2px dotted red;
+    background-color: #73AD21; 
+    color: #FFFFFF; 
+    font-size: 28px;
+    text-align:center;
+  }
+</style>
