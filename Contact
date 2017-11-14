@@ -1,0 +1,26 @@
+<div class= body>
+ <div class="row">
+  <div class= "col-xs-9">  
+  <h1 class="black-text">
+  BAILY LAW
+  </h1>
+  </div>
+<a href="#">
+<img class="larger-image img-thumbnail" alt="AARON BAILY. " src="https://static.wixstatic.com/media/3a0eb4_06ffd0293f984b7f95e176f93dec02f8.jpg/v1/fill/w_61,h_50,al_c,q_80,usm_0.66_1.00_0.01/3a0eb4_06ffd0293f984b7f95e176f93dec02f8.webp">
+</a>                            
+ </div>
+  <h2 class="text-center">The Law Office of Aaron G. Baily</h2>
+<div class="well col-xs-9" id="center-well">
+  <ul>
+<button class="btn btn-default btn-block btn-success btn-group-vertical" id=“Call">
+<i class="fa fa-phone" aria-hidden="true"></i></button>
+
+<button class="btn btn-default btn-block btn-group-vertical " id=“Fax">
+<i class="fa fa-fax" aria-hidden="true"></i></button>
+
+<button class= "btn btn-default btn-block btn-group-vertical” id="email”> Email</button>
+  
+<button class="btn btn-default btn-block btn-group-vertical” id="location”> Get Directions <i class="fa fa-location-arrow” aria-hidden="true"></i></button>
+</ul>
+<img class="larger-image" alt="AARON BAILY. " src="https://static.wixstatic.com/media/3a0eb4_e952eebfa90f45888fad23c071807c73~mv2_d_6000_2450_s_4_2.jpeg/v1/fill/w_230,h_110,al_c,q_80,usm_0.66_1.00_0.01/3a0eb4_e952eebfa90f45888fad23c071807c73~mv2_d_6000_2450_s_4_2.webp"</img>  
+</div>
